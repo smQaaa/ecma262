@@ -23,10 +23,10 @@
   "license": "SEE LICENSE IN https://tc39.es/ecma262/#sec-copyright-and-software-license",
   "homepage": "https://tc39.es/ecma262/",
   "dependencies": {
-    "ecmarkup": "^3.19.0"
+    "ecmarkup": "^21.3.1"
   },
   "devDependencies": {
     "@alrra/travis-scripts": "^2.1.0",
-    "jsdom": "^15.0.0"
+    "jsdom": "^26.1.0"
   }
 }
